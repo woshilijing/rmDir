@@ -35,7 +35,7 @@ function rmWide(p, callback){
     next(0)
 }
 rmWide('a', data => {
-    console.log('删除结束')
+    console.log('ok')
 })*/
 
 let fs=require('fs');
